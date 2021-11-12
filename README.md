@@ -1,0 +1,1 @@
+# docker-aspnet6.0-bionic
